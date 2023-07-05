@@ -1,2 +1,2 @@
-# productivity-tracker-feedback
-This is to maintain a record of all the feedbacks and the issues that are there in the productivity tracker chrome extention.
+# Productivity Tracker Feedback
+This is to record all the feedback and issues in the productivity tracker Chrome extension.
